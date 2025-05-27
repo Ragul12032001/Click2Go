@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TravelAd_Api\\TravelAd_Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Channels_Api\\Channels_Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

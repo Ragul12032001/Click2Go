@@ -1,0 +1,9 @@
+{
+    "API_URL": "http://localhost:5008/Authentication/api",
+    "ApiUrlAdvAcc" : "http://localhost:5008/AdvertiserAccount/api",
+    "ApiUrlAdminAcc" :"http://localhost:5008/Admin/api",
+    "SmsUrlAdminAcc" : "http://localhost:5008/Sms/api",
+    "OperatorUrl" : "http://localhost:5008/Operator/api",
+    "ApiurlPhonepeAcc":"http://localhost:5008/api/payment"
+}
+
